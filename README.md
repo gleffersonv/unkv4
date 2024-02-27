@@ -66,7 +66,7 @@ adiciona aqui, https://github.com/settings/keys
 
 ```bash
 cd ~
-git clone git@github.com:w3nder/unkv4.git
+git clone git@github.com:gleffersonv/unkv4.git
 ```
 
 Crie um arquivo .env de backend e preencha com as informações correta:
